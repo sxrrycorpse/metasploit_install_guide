@@ -10,7 +10,6 @@ source .rvm/scripts/rvm
 
 # metasploit framework
 git clone https://github.com/rapid7/metasploit-framework.git --depth=1
-
 cd metasploit-framework
 
 # Install ruby version
